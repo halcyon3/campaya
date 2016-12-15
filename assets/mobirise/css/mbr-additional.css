@@ -487,6 +487,29 @@ h6,
 #header3-f .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box8-1w .mbr-section-title,
+#msg-box8-1w p {
+  color: #fff;
+}
+#features1-20 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-20 .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+}
+#features1-20 .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+}
+#msg-box2-21 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-21 .mbr-section-subtitle {
+  color: #a0a0a0;
+  text-align: left;
+}
+#msg-box2-21 .mbr-section-subtitle P {
+  text-align: right;
+}
 #form2-j .mbr-section-title {
   color: #fff;
 }
